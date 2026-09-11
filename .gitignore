@@ -1,0 +1,9 @@
+pre_train_model
+data
+__pycache__/
+*.pyc
+.history/
+.lh/
+nohup.out
+.DS_Store
+.ipynb_checkpoints/
